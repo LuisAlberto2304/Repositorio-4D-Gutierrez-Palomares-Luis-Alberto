@@ -279,7 +279,7 @@ export const updateEquipmentActiveNoChanges = async ({
 
     // Preparar datos para actualizar solo el historial
     const updateData = {
-      status: "Resolved",
+      status: "Active",
       lastMaintenance: {
         date: serverTimestamp(),
         notes: notes || "Maintenance performed (no parts changed)",

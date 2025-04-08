@@ -228,7 +228,7 @@ function ReportsStack() {
 function HistoryUserStack() {
   return (
     <Stack.Navigator>
-      <Stack.Screen name="HistoryMain" component={WatchHistoryScreen} options={{ title: "History" }} />
+      <Stack.Screen name="HistoryMain" component={WatchHistoryScreen} options={{ headerShown: false }} />
       <Stack.Screen
         name="TicketChat"
         component={TicketChatScreen}
