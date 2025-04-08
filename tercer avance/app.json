@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Tecnix",
+    "slug": "Tecnix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "myapp",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "assetBundlePatterns": ["assets/**/*"],
+      "permissions": [],
+      "package": "com.sdestiny12.Tecnix"
+    },
+    "plugins": ["expo-font"],
+    "package": "com.sdestiny12.Tecnix",
+    "extra": {
+      "eas": {
+        "projectId": "0c0ab49e-8bf2-4302-b077-45caca0ccbe1"
+      }
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "0c0ab49e-8bf2-4302-b077-45caca0ccbe1"
+    }
+  },
+  "runtimeVersion": {
+    "policy": "appVersion"
+  },
+  "updates": {
+    "url": "https://u.expo.dev/0c0ab49e-8bf2-4302-b077-45caca0ccbe1"
+  }
+}

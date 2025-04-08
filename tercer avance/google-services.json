@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507707479407",
+    "project_id": "tecnix-52017",
+    "storage_bucket": "tecnix-52017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507707479407:android:0e499811cc7f12a54ec49a",
+        "android_client_info": {
+          "package_name": "com.tecnixtapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANIW_Rjj0rBYYONuWLYnkpo5qm50u2uSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

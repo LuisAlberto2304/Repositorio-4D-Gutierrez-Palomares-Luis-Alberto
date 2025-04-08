@@ -1,0 +1,23 @@
+nuevos comandos
+
+// ESTE COMANDO INSTALA YA TODAS LAS DEPENDECIAS, NO HACE FALTA MAS
+
+SI USAS NPM
+npm install
+
+// ESTE COMANDO INSTALA YA TODAS LAS DEPENDECIAS, NO HACE FALTA MAS
+
+SI USAS YARN:
+yarn install
+
+DESPUES
+
+cd serverNodeJS
+
+// ESTE COMANDO INSTALA YA TODAS LAS DEPENDECIAS, NO HACE FALTA MAS
+npm install
+
+correr formato de prittier
+npm run format
+
+(verificara que todos los archivos cumplan con el formato de espacios del archivo .prittierrc)
